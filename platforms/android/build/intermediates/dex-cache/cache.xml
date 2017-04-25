@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tery/Documents/github/myapp/platforms/android/libs/nativescript.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40373005d4576f2e18027bcb2460ba577ae3d4ea">
+        <dex dex="/Users/tery/Documents/github/myapp/platforms/android/build/intermediates/pre-dexed/debug/nativescript-6053cbd870e0728a1f1d2e5327b087dedb475bac.jar" />
+    </item>
+    <item
+        jar="/Users/tery/Documents/github/myapp/platforms/android/libs/widgets.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dab3994e6354b233885a2834673e6fc968347762">
+        <dex dex="/Users/tery/Documents/github/myapp/platforms/android/build/intermediates/pre-dexed/debug/widgets-3dd8a4c2de8a38ce1e368d56ece6cc9fdb58ab17.jar" />
+    </item>
+    <item
+        jar="/Users/tery/Documents/github/myapp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/tery/Documents/github/myapp/platforms/android/build/intermediates/pre-dexed/debug/classes-01083df11e825b2f93cd2b47ce0c7dfffdc80f7b.jar" />
+    </item>
+    <item
+        jar="/Users/tery/Documents/github/myapp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/tery/Documents/github/myapp/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-439c561edc284b9bf3d276f85cd8225a32013efe.jar" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/tery/Documents/github/myapp/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-bc9cafe79f1c1b303d20103dd7c14a30585a036f.jar" />
+    </item>
+    <item
+        jar="/Users/tery/Documents/github/myapp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/tery/Documents/github/myapp/platforms/android/build/intermediates/pre-dexed/debug/classes-2f0212e69fd903e67e1875fd7b8fadbd7b3bf4e0.jar" />
+    </item>
+
+</items>

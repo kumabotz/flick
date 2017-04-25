@@ -1,0 +1,24 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.myapp",
+    "tns-android": {
+      "version": "1.4.0"
+    }
+  },
+  "dependencies": {
+    "express": "4.14.0",
+    "flick-electric-api": "1.0.1",
+    "tns-core-modules": "1.4.0"
+  },
+  "name": "myapp",
+  "main": "app.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
