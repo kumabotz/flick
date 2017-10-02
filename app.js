@@ -14,7 +14,7 @@ app.get('/', function (req, res) {
   });
   flick.on('price', function(price) {
     price = (price * 100).toFixed(1)
-    res.end('<div style="text-align:center;"><h1 style="font-size:300px;display:inline-block;">' + price + '</h1> cents per unit</div>');
+    res.end('<div style="text-align:center;"><h1 style="font-size:300px;display:inline-block;margin-bottom:0;">' + price + '</h1> <span style="color:#666;display:block;text-transform:CAPITALIZE;">cents per unit</span></div>');
   });
   flick.get_price();
 });
